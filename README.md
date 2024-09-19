@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Befekir Belayneh</h1>
 <h3 align="center">I am a Computer Engineering Technology Major at RIT</h3>
 
-- 🌱 I’m currently learning **Embedded Systems and Low Level Programming**
+- 🌱 I’m currently learning **Embedded Systems and FPGA Design**
 
 - 📫 How to reach me **befekir.belayneh@gmail.com**
 
